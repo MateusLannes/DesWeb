@@ -1,0 +1,5 @@
+br/ifes/dw/helloworld/application/AppProduto.class
+br/ifes/dw/helloworld/controller/ProdutoController.class
+br/ifes/dw/helloworld/controller/HelloWorldController.class
+br/ifes/dw/helloworld/HelloworldApplication.class
+br/ifes/dw/helloworld/model/Produto.class
